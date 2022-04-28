@@ -8,3 +8,7 @@ Anotações importantes(p/ melhor aprendizado)
 
 ## Links úteis
 [Sintaxe Markdown](https://www.markdownguide.org/getting-started/)
+
+### Objetivo
+ - Criar informações sobre seu aprendizado.
+

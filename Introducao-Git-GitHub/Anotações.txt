@@ -1,0 +1,4 @@
+- Para entrar em um repositório usando o gitbash, digita-se (cd + o nome da pasta)
+- Para verificar se houve alguma alteração na máquina local, utilizando o gitbash, digita-se "git status". 
+- Para que as alterações realizadas na máquina local, suba para o servidor remoto(GitHub) usa-se o comando "git add ." ou "git add -A". Após usa-se o comando "git commit -m "Aqui entra um texto explicativo sobre o commit". E depois o comando "git push origin main".
+- o comando "git push origin main", envia todos os commit locais para a nuvem.
