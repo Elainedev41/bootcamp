@@ -1,4 +1,15 @@
 - Para configurar um novo caminho onde ficará tudo relacionado a um determinado assunto deve-se:
   *Na barra de pesquisa digitar "var" e procurar por "Editar as variáveis de ambiente do sistema": Avançado -> variáveis de ambiente: Novo ->nome da variável(deverá ser digitado em letras maiúsculas) -> valor da variável(deverá colar o caminho de onde se encontra o programa que foi baixado e descompactado) -> OK. Após clique em path(variável do sistema) -> editar - > novo(com o botão direito cole novamente o caminho do arquivo), no fim deste link digita-se \bin -> mover para cima - > OK -> OK.
+
+- Criação de novo projeto utilizando a IdeEclipse, tem se as opções "ctrl+n->javaproject"; "file->new->javaproject" ou "create a java project", no packageExplores.
+- O abre e veja chaves{}, representa abertura e fechamento de bloco
+- Comentários em java usa-se /* */
+
+Teclas de Atalho
+*alt+seta pra cima = muda um bloco de lugar
+*ctrl+shift+f = organiza todo o código
+*ctrl+shift+o = realiza uma importação
+
+
   
   
