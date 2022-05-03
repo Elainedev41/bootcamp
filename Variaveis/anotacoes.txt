@@ -1,0 +1,30 @@
+         # Variáveis, Tipos de dados e Operadores Matemáticos em Java - 
+
+## Variável: é o espaço na memória do computador, onde se pode guardar valores
+## Tipos de variáveis:
+  * instância:objeto
+  * classe:classe
+  * local:dentro do método
+  * parâmetros:na assinatura do método
+
+##Padrão de definição
+<?visibilidade?><?modificador?>tiponome<?valorInicial?> 
+V:"public","protect"e "private" ->ligado a OO
+M:"static"(ligado a OO) e "final"(constante - valor não se altera)
+T:tipo de dado ->obrigatório informar
+N:nome fornecido a variável ->obrigatório
+VI:um valor inicial ->se desejar
+
+##Criação de variáveis
+  ###Convenções e regras
+    *Não devem começar com números
+    *Deve se evitar o uso "$" e "_"
+    *É case sensitive ->Diferencia maiúsculas e minúsculas
+    *Sem espaços
+    *Não pode ser palavras reservadas
+
+  ###Boas Práticas
+    *Sempre começar com letra minúscula
+    *Nomes expressivos ->Indique de forma clara o que se refere
+    *Notação camelo ->Primeira letra de cada palavra deve ser maiúscula, exceto a primeira. ex: int amorPerfeito
+    *Quando constante(final) maiúscula e separada por "_". ex: int final Numero_Tentativas=5
