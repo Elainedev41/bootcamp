@@ -37,6 +37,26 @@ VI:um valor inicial ->se desejar
   *Estática(forte) vs Dinâmica(fraco)
   *Primitivo vs composto
 
-Estática é definida no momento da variável e não sofre alteração
+Estática é definida no momento da variável e não sofre alteração.
+
+  ##Operadores Aritméticos
+
+###Operadores aritméticos:São simbolos especiais que são capazes de realizar ações especificas em um, dois ou mais operandos e, em seguida retornar um resultado.
+
+###Tipos de Operadores
+  * Pósfixado = exp++ ou exp--;
+  * Préfixado = ++exp ou --exp;
+  * Aritmético = +, -, *, /, %;
+  * Atribuição = +=, -=, *=, /=, %=;
+
+  ##Conversões(Casting)
+
+###Casting: É a transformação de uma determinada variável de tipo menos especifico para um tipo mais especifico e vice-versa.
+
+###Tipos de Conversões
+  *Upcast(implicito) - aumenta a capacidade de representação e pode levar a um ganho de representatividade.
+  *Downcast(explicito) - reduz a capacidade de representação e pode levar a uma perda de representatividade.
+
+   
 
    
