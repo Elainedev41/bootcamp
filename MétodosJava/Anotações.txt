@@ -1,0 +1,36 @@
+ #Método
+##Método: Porção de código(sub-rotina) que é disponibilizada por uma classe. É executado quando é feita uma requisição a ele.São responsáveis por definir e realizar um determinado comportamento.
+##Criação: <?Visibilidae?><?Tipo?><?Modificador?>retorno nome(<?parâmetros?>)<?exceções?>corpo - o que está entre <?é opcional?>.
+
+V:"public", "protected" ou "private";
+T: concreto ou abstrato;
+M: "Static" ou "final";
+R: Tipo de dado ou "void";
+N: nome que é fornecido ao método;
+P: Parametros que podem receber;
+E: Exceções que pode lançar;
+C: código que possui ou vazio;
+
+##Construtor e destrutor: São métodos especiais usados na Orientação a Objetos.
+##Mensagem: É o ato de solicitar ao método que o mesmo execute. Esta pode ser direcionada a um objeto ou uma classe.
+
+Passagem de parâmetros: por valor(cópia) ou por referência(endereço).
+
+##Boa práticas:
+*Nomes descritivos, mas curtos;
+*Notação(Camelo) -> verificarSaldo(); executarTransferencia();
+*Deve possuir entre 80 e 120 linhas;
+*Evite lista de parâmetros longas;
+*Visibilidades adequadas.
+
+##Sobrecarga ->"É a capacidade de definir métodos para diferentes contextos, mas preservando seu nome".
+
+##Funcionamento: O método executa seu retorno quando:
+*Completa todas suas instruções internas.
+*Chega a uma declaração explicita de retorno.
+*Lança uma exceção(erro).
+
+###Consideração:
+*O tipo de retorno do método é definido na sua criação e pode ser um tipo primitivo ou objeto;
+*O tipo de dado do return, deve ser compatível com do método;
+*Se o método for sem retorno(void), pode ou não ter um "return" para encerrar sua execução.
