@@ -1,0 +1,20 @@
+  #Lógica Condicional e Controle de Fluxo em Java
+
+##Operadores Relacionais: "São símbolos especias capazes de realizar comparações entre determinados operandos e, em seguida retornar um resultado." 
+
+##Tipos e Simbologia
+ *Similaridade -> Igual e diferente
+   **Igualdade: Determina se um operando é igual a outro (==);
+   **Diferença: Determina se um operando é diferente a outro (!=).
+ *Tamanho -> Maior; maior ou igual; menor e menor ou igual
+   **Maior: Determina se um operando é maior que outro (>);
+   **Maior ou igual: Determina se um operando é maior ou igual a outro (>=);
+   **Menor: Determina se um operando é menor a outro (<);
+   **Menor ou igual:Determina se um operando é menor ou igual a outro (<=).
+
+##Operadores Lógicos: "São símbolos especiais capazes de realizar comparações lógicas entre operando lógico ou expressões, em seguida, retornar um resultado."
+##Tipos, Simbologia e Terminologia
+ *Conjunção: Operação lógica que só é verdadeira quando ambos os operandos ou expressões envolvidos são verdade. Simbologia(&&) - Terminologia(and(e)).
+ *Disjunção:Operação que só é falsa quando ambos os operandos ou expressões envolvidas são falsos. Simbologia(||) - Terminologia(or(ou)).  
+ *Disjunção exclusiva: Operação que só é verdade quando ambos os operandos ou expressões são opostos. Simbologia(^) - Terminologi(xor).
+ *Negação: Operação que inverte o valor lógico de um operando ou expressão. Simbologia(!) - Terminologia(Inversão).
