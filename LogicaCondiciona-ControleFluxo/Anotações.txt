@@ -18,3 +18,23 @@
  *Disjunção:Operação que só é falsa quando ambos os operandos ou expressões envolvidas são falsos. Simbologia(||) - Terminologia(or(ou)).  
  *Disjunção exclusiva: Operação que só é verdade quando ambos os operandos ou expressões são opostos. Simbologia(^) - Terminologi(xor).
  *Negação: Operação que inverte o valor lógico de um operando ou expressão. Simbologia(!) - Terminologia(Inversão).
+
+##Controle de fluxo: "São estruturas que tem a capacidade de direcionar o fluxo de execução do código"
+##Tipos:
+ *Decisão: if; if-else; if-else-if; switch e operador ternário
+ *Repetição:for; while; do-while
+ *Interrupção:breack; continue e return.
+
+ ###Decisão: Estrutura que avalia uma condição booleana ou variável para direcionar o fluxo de execução.
+   Opções: if(se), switch(escolha), operador ternário
+##Boas práticas: 
+ *Switch é para valores exatos e if para expressões booleanas;
+ *Evitar usar o default do Switch para "casos genéricos";
+ *Evitar o efeito "flexa" dos if's;
+ *Evitar muitos If's aninhados;
+ 
+##Blocos: "Grupo de 0 ou mais códigos que trabalham em conjunto para executar uma operação."
+##Tipos:
+  *Locais:dentro do método;
+  *Estáticos: dentro de classes;
+  *Instância: dentro de classes;
