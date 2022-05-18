@@ -1,0 +1,23 @@
+   #Estrutura de Repetição e Arrays em Java
+
+*O real poder dos computadores está na habilidade para repetir uma operação ou uma série de operações várias vezes.
+*Cada repetição é chamada laço(loop) é um dos conceitos básicos da programação estruturada.
+*Uma estrutura de repetição permite que uma sequência de comandos seja executada repetidamente caso determinadas condições sejam satisfeitas.
+
+##Classificação:
+ *Repetição com teste no inicio(while)
+ *Repetição com teste no final(do While)
+ *Repetição contada
+
+O Comando 'break' é utilizado para terminar de forma abrupta uma repetição.
+Quando o comando 'continue' é executado, os comandos restantes da repetição são ignorados, o programa volta a testar novamente ou não.
+
+##Operadores de incremeto e decremento:
+ *pré-fixado: ++num   --num
+ *pós-fixado: num++   num-- 
+
+ num+1-(retorna num)
+ (retorna num) num+1
+
+##Arrays: É um objeto para armazenar sequencialmente dados do mesmo tipo, permanecendo com o mesmo tamanho depois de criado.
+  Podem ser unidimensional ou multidimensional-linhas e colunas.
